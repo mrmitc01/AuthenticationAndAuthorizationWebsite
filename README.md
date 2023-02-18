@@ -31,10 +31,11 @@ package.json - package file listing dependencies and information
 To run the following commands, Node.js will need to be installed, which can be downloaded from: https://nodejs.org/en/
 
 To install dependencies, type the following at the prompt >:
-> npm i
+
+\> npm i
 
 To run the source code, type the following at the prompt >:
-> node app.js
+\> node app.js
 
 View the website by opening http://localhost:3000/user/login in a web browser
 
